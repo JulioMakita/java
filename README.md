@@ -1,3 +1,3 @@
 # java
 
-Exemplo de teste usando JPA, DBUnit e  HSQLDB
+Test Example using JPA, DBUnit and HSQLDB
