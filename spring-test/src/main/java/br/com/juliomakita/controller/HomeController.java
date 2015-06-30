@@ -1,4 +1,4 @@
-package br.com.juliomakita;
+package br.com.juliomakita.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
