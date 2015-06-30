@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<carro id="1" ano="2008" marca="chevrolet" modelo="corsa"/>
+	<carro id="2" ano="2014" marca="fiat" modelo="palio"/>
+	<carro id="3" ano="2012" marca="ford" modelo="fiesta"/>
+	<carro id="4" ano="2015" marca="hyundai" modelo="i30"/>
+</dataset>
