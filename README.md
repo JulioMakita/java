@@ -1,3 +1,4 @@
 # java
 
-Test Example using JPA, DBUnit and HSQLDB
+jpa-test= Test Example using JPA, DBUnit and HSQLDB
+spring-teste = Project using Spring MVC, JPa, Jetty
